@@ -1,6 +1,6 @@
 plugins {
     java
-    kotlin("jvm") version "1.5.0"
+    kotlin("jvm") version "1.4.32"
 }
 
 group = "com.dicoding.kotlin.coroutines"
